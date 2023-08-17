@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Product A",
+      "description": "This is the first product.",
+      "image": "https://images.squarespace-cdn.com/content/v1/609e7502bb303b291aba19f6/54b85f7a-3aad-496d-b7f8-852829f3e4ae/2.jpg?format=750w"
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "description": "This is the second product.",
+      "image": "https://images.squarespace-cdn.com/content/v1/609e7502bb303b291aba19f6/44e2346e-8a54-446a-8462-bd003a3010b0/steelseries+9x+copy.jpg?format=750w"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "description": "This is the third product.",
+      "image": "https://images.squarespace-cdn.com/content/v1/609e7502bb303b291aba19f6/e888b68b-9143-40de-8d7c-fc4aac8decaf/beckham-final+1.jpg?format=750w"
+    },
+    {
+      "id": 4,
+      "name": "Product D",
+      "description": "This is the fourth product.",
+      "image": "https://images.squarespace-cdn.com/content/v1/609e7502bb303b291aba19f6/e3797782-520e-4974-9319-74e98f8c46bf/pro+controler+copy.jpg?format=750w"
+    },
+    {
+      "id": 5,
+      "name": "Product E",
+      "description": "This is the fifth product.",
+      "image": "https://images.squarespace-cdn.com/content/v1/609e7502bb303b291aba19f6/35eeb8d0-f772-42f2-bf82-1c491ac1a01f/splash+page+image.jpg?format=750w"
+    },
+    {
+      "id": 6,
+      "name": "Product F",
+      "description": "This is the sixth product.",
+      "image": "https://images.squarespace-cdn.com/content/v1/609e7502bb303b291aba19f6/1627305823696-MOAA3DHENDKJSTOLHLB7/Studio+Session-010-Edit-Edit+copy.jpg?format=750w"
+    }
+  ]
+  
